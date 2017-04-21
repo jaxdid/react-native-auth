@@ -5,7 +5,7 @@ class App extends Component {
   render () {
     return (
       <View>
-        <Text>An App</Text>
+        <Text>A unified app</Text>
       </View>
     )
   }
